@@ -1,6 +1,4 @@
-# Company_Sales_Analysis_2016
-# Company Sales Analysis - Power BI Project
-
+# Company_Sales_Analysis_2016 - Power BI Project
 ## Project Overview
 This Power BI project analyzes sales data and web events for various companies using multiple datasets. The goal of this project is to provide insights into sales performance, spending patterns, and top-performing sales representatives. The project also highlights trends in purchases made by Ford Motor Company in 2016.
 
