@@ -65,6 +65,4 @@ Data modeling ensured proper connectivity between datasets for seamless analysis
 2. **Open in Power BI Desktop**: Use Power BI Desktop to explore the visualizations and perform additional analyses.
 3. **Data Exploration**: Interact with slicers and filters to view insights tailored to specific conditions or requirements.
 
----
 
-## Repository Structure
